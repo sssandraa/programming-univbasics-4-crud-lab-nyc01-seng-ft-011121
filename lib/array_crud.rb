@@ -9,6 +9,7 @@ end
 def add_element_to_end_of_array(array, element)
   cats = ["bean", "jean", "ham", "oatman"]
   cat_friends << "timmy"
+  p cats
 
 end
 
