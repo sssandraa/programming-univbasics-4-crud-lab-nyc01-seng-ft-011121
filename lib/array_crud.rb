@@ -8,11 +8,11 @@ end
 
 def add_element_to_end_of_array(array, element)
   cats = ["bean", "jean", "ham", "oatman"]
-  cats << "timmy"
+  cats.push ("timmy")
 end
 
 def add_element_to_start_of_array(array, element)
-  cat_friends = ["bean", "jean", "ham", "oatman"]
+  cat_frien = ["bean", "jean", "ham", "oatman"]
   cat_friends.unshift "pearl"
 end
 
