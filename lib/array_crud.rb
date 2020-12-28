@@ -7,7 +7,7 @@ cats = ["bean", "jean", "ham", "oatman"]
 end
 
 def add_element_to_end_of_array(array, element)
-  cat_friends = ["bean", "jean", "ham", "oatman"]
+  cats = ["bean", "jean", "ham", "oatman"]
   cat_friends << "timmy"
 
 end
