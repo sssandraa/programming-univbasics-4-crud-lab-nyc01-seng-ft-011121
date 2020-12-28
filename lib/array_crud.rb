@@ -23,7 +23,7 @@ end
 
 def remove_element_from_start_of_array(array)
   cat_friends = ["bean", "jean", "ham", "oatman"]
-  cat_friends.shift "bean"
+  cat_friends.shift "arrays!"
 end
 
 def retrieve_element_from_index(array, index_number)
