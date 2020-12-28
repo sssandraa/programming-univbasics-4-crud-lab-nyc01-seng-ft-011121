@@ -46,5 +46,5 @@ end
 
 def update_element_from_index(array, index_number, element)
   cat_friends = ["bean", "jean", "ham", "oatman"]
-  cat_friends[1] "honey"
+  cat_friends[1] = "honey"
 end
